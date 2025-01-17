@@ -214,6 +214,8 @@ dependencies:
   - bluesky-darkframes >=0.6.0
   - caproto
   - emojis
+  - gladia
+  - gladia-tools
   - happi
   - pexpect
   # - pydm
