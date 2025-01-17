@@ -200,6 +200,8 @@ dependencies:
     - bluesky >=1.13.0a3
     - bloptools >=0.7.0
     - digautoprofiler
+    - gladier
+    - gladier-tools
     - h5json
     - mimesis
     - ophyd-async[ca,pva]
