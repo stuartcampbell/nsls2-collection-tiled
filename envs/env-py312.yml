@@ -60,6 +60,7 @@ dependencies:
   - flake8
   - fpdf2
   - globus-sdk
+  - globus-compute-sdk
   - graphviz
   - grid-strategy
   - h5py !=3.4
